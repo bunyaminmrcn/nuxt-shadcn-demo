@@ -6,6 +6,6 @@
 
 <script  setup lang="ts">
 //import AccordionExample from '@/src/demos/accordion'
-import AlertExample from '@/src/demos/alert'
+import AlertExample from '@/src/demos/alert/index'
 
 </script>
